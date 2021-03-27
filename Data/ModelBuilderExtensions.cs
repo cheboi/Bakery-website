@@ -41,7 +41,7 @@ namespace Bakery.Data
                     Id = 4,
                     Name = "Bread",
                     Description = "Fresh baked French-style bread",
-                    Price = 149m,
+                    Price = 55m,
                     ImageName = "bread.jpg"
                 },
                 new Product
